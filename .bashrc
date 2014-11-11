@@ -266,4 +266,3 @@ clear
 echo "Welcome yucachaaaan!"
 echo -ne "${red}Today is:\t\t${cyan}" `date`; echo ""
 echo -e "${red}Kernel Information: \t${cyan}" `uname -smr`
-echo -ne "${cyan}";upinfo;echo ""
